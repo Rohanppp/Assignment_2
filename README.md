@@ -38,19 +38,5 @@ src/
  └── index.css      # Global tokens, fonts, background
 ```
 
-## References provided by HyperInt
-
-- Assignment PDP: DMD Clothing Lycra Cotton Stretchable Formal Trousers
-- Prototype inspo: https://designs-six-iota.vercel.app/
-- Prototype inspo: https://face-oil.vercel.app/
-- Walkthrough video: https://drive.google.com/file/d/14AIlKZlodAyH0fAjnrttvXSBr71MOty0/view
-
-## Submission helper
-
-When you’re ready, run `npm run build` to ensure the static bundle compiles, zip the project, host
-the preview (optional), and fill the Google Form: https://forms.gle/zxUWSRqjqe5W6QjH6
-
-—
-
 Thanks for reviewing! Let me know if you’d like to see motion prototypes or hook this into a headless
 CMS in the next round. ***
